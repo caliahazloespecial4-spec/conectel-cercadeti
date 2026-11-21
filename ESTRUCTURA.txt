@@ -1,0 +1,8 @@
+index.html -> paginas/inicio.html
+paginas/acceso.html -> Personalizar saludo sin contraseña
+paginas/perfil.html -> Perfil
+paginas/solicitudes.html -> Historial local
+paginas/reportar.html -> Reporte
+paginas/pagos.html -> Pagos y fotos
+assets/js/shared.js -> Comportamiento
+assets/css/multipagina.css -> Ajustes visuales
